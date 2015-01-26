@@ -17,4 +17,6 @@ Copy the config file in the terminator config directory:
 
     cp nervous-terminator-theme/config ~/.config/terminator/
 
-## Screenshots
+## Screenshot
+
+![](https://raw.github.com/sgaraud/nervous-terminator-theme/master/nervous-terminator.png)
