@@ -1,0 +1,22 @@
+[global_config]
+  title_transmit_bg_color = "#d30102"
+  focus = system
+  suppress_multiple_term_dialog = True
+[keybindings]
+[profiles]
+  [[default]]
+    palette = "#1a1a1a:#6a160d:#7f9f7f:#714286:#615882:#d05310:#738825:#b9c6e0:#1a1a1a:#6a160d:#7f9f7f:#714286:#615882:#d05310:#738825:#b9c6e0"
+    background_color = "#1a1a1a"
+    background_image = None
+    cursor_color = "#dcdcdc"
+    foreground_color = "#b9c6e0"
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
