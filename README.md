@@ -5,16 +5,16 @@ http://www.vim.org/scripts/script.php?script_id=4764
 
 ## installation:
 
-    Create a config file for your terminator if you don't have one already:
+Create a config file for your terminator if you don't have one already:
 
-mkdir -p ~/.config/terminator/
+    mkdir -p ~/.config/terminator/
 
-    Clone this repository somewhere:
+Clone this repository somewhere:
 
-git clone https://github.com/sgaraud/nervous-terminator-theme
+    git clone https://github.com/sgaraud/nervous-terminator-theme
 
-    Copy the config file in the terminator config directory:
+Copy the config file in the terminator config directory:
 
-cp nervous-terminator-theme/config ~/.config/terminator/
+    cp nervous-terminator-theme/config ~/.config/terminator/
 
 ## Screenshots
