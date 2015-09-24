@@ -10,7 +10,7 @@
 [keybindings]
 [profiles]
   [[default]]
-    palette = "#1a1a1a:#7a0b00:#8eaa29:#714286:#615882:#d05310:#ededa3:#b9c6e0:#b9c6e0:#ededa3:#d05310:#714286:#615882:#8eaa29:#7a0b00:#1a1a1a"
+    palette = "#1a1a1a:#7a0b00:#8eaa29:#714286:#615882:#d05310:#ededa3:#b9c6e0:#b9c6e0:#ededa3:#d05310:#714286:#615882:#8eaa29:#7a0b00:#717171"
     background_color = "#1a1a1a"
     background_image = None
     cursor_color = "#dcdcdc"
